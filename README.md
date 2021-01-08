@@ -1,11 +1,5 @@
 ### Hi there I'm Omar 👋 
 
-<!--
-**omar2535/omar2535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming a better person
 - 🌱 I’m currently learning about becoming a better communicator
 - 👯 I’m looking to collaborate on programming projects
