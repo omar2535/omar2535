@@ -6,4 +6,5 @@
 - 📫 How to reach me: Linkedin message / email
 - ⚡ Fun fact: C++ was my first programming language
 
+![trophies](https://github-profile-trophy.vercel.app/?username=omar2535&theme=flat)
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omar2535)](https://github.com/anuraghazra/github-readme-stats)
