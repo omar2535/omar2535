@@ -1,8 +1,7 @@
 ### Hi there I'm Omar 👋 
 
-- 🔭 I’m currently working on building a personal portfolio tracker
+- 🔭 I’m currently working on my degree
 - 🌱 I’m currently learning about becoming a better communicator
-- 👯 I’m looking to collaborate on programming projects
 - 📫 How to reach me: Linkedin message / email
 - ⚡ Fun fact: C++ was my first programming language
 
