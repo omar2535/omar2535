@@ -1,6 +1,6 @@
 ### Hi there I'm Omar 👋 
 
-- 🔭 I’m currently working on my degree
+- 🔭 I’m currently working getting my XDS before I graduate
 - 📫 How to reach me: omar2535(at)alumni.ubc.ca
 - ⚡ Fun fact: C++ was my first programming language
 - 💡  Current interest: Reverse engineering / binary exploitation
