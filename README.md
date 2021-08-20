@@ -4,7 +4,7 @@ I'm a new graduate from the [University of British Columbia](https://www.ubc.ca/
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
-- ⚡ Fun fact: Made my first app at the age of 15!
+- ⚡ Fun fact: Made my first app when I was 15!
 - 💡  Current interest: Security
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar2535)](https://git.io/streak-stats)
