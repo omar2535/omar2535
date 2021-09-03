@@ -6,6 +6,7 @@ I'm a new graduate from the [University of British Columbia](https://www.ubc.ca/
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
 - ⚡ Fun fact: Made my first app when I was 15!
 - 💡 Current interest: Security & applications of machine learning!
+- 🧾 Certs: OSCP, OSWE, AWS SAA
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)](https://github.com/ryo-ma/github-profile-trophy)
