@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Currently, I'm a masters student at [Simon Fraser University](https://www.sfu.ca/)!\
-Recently graduated from [The University of British Columbia](https://www.ubc.ca/)
-
-<img src="https://www.sfu.ca/content/sfu/communicators-toolkit/guides/brand-guide/logos/jcr:content/main_content/image.img.2000.high.png/1624470962174.png" alt="drawing" width="200"/> <img src="https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png" alt="drawing" width="200"/>
+Currently, I'm a masters student at [Simon Fraser University](https://www.sfu.ca/)!
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
