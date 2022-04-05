@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Currently, I'm a masters student at [Simon Fraser University](https://www.sfu.ca/)!
+🎓Currently, I'm a masters student at [Simon Fraser University](https://www.sfu.ca/)!
+
+🦁You can find me at: [thaomar](https://thaomar.com/)
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
