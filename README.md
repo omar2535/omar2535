@@ -2,7 +2,7 @@
 
 🎓Currently, I'm a masters student at [Simon Fraser University](https://www.sfu.ca/)!
 
-🦁You can find me at: [thaomar](https://thaomar.com/)
+🦁My website: [Thaomar](https://thaomar.com/)
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
