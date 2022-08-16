@@ -14,3 +14,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omar2535&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![tryhackme stats](https://raw.githubusercontent.com/omar2535/omar2535/master/assets/thm_propic.png)
