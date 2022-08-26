@@ -13,5 +13,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omar2535&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![tryhackme stats](https://tryhackme.com/p/omar2535)](https://raw.githubusercontent.com/omar2535/omar2535/master/assets/thm_propic.png)
