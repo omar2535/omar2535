@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
 - ⚡ Fun fact: Made my first app when I was 15!
-- 💡 Current interest: Security & applications of machine learning!
+- 💡 Current interest: Software & Security!
 - 🧾 Certs: OSCP, OSWE, AWS SAA, BTL1
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
