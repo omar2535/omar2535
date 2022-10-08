@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alum.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
-- ⚡ Fun fact: Made my first app when I was 15!
+- ⚡ Fun fact: Published my first android app when I was 15!
 - 💡 Current interest: Software & Security!
 - 🧾 Certs: OSCP, OSWE, AWS SAA, BTL1
 
