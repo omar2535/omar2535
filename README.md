@@ -6,9 +6,10 @@
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alumni.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
-- ⚡ Fun fact: Published my first android app when I was 15!
-- 💡 Current interest: Software & Security!
-- 🧾 Certs: OSCP, OSWE, AWS SAA, BTL1
+- ⚡ Fun fact: Published my first android app on the play store when I was 15!
+- 💡 Current interest: Cybersecurity in SDLC
+- 🧾 Certs: OSCP, OSWE, AWS SAA, BTL1, AZ-900
+- 🏆 Accomplishments: Top 1% Tryhackme
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)
