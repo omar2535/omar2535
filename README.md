@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🎓Currently, I'm a masters student at [Simon Fraser University](https://www.sfu.ca/)!
+🍁 Cybersecurity engineer at the Government of Canada 
 
 🦁My website: [Thaomar](https://thaomar.com/)
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alumni.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
-- ⚡ Fun fact: Published my first android app on the play store when I was 15!
-- 💡 Current interest: Data engineering for cybersecurity
+- ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15!
+- 💡 Current interest: Detection engineering, applications of big data in cybersecurity
 - 🧾 Certs: OSCP, OSWE, AWS SAA, BTL1, AZ-900
-- 🏆 Accomplishments: Top 1% Tryhackme
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)
