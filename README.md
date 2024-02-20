@@ -8,7 +8,7 @@
 - 📫 How to reach me: <a href="mailto:omar2535@alumni.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
 - ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15!
 - 💡 Current interest: Detections engineering, applications of big data in cybersecurity
-- 🧾 Notable certifications: OSCP, OSWE, AWS SAA, BTL1
+- 🧾 Notable certifications: OSCP, OSWE, CARTP, BTL1, AWS SAA
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)](https://github-profile-trophy.vercel.app/?username=omar2535&row=1)
