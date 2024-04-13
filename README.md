@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🍁 Cybersecurity engineer at the Government of Canada 
-
-🦁My website: [Thaomar](https://thaomar.com/)
+🍁 Cybersecurity engineer at the [Government of Canada](https://www.cyber.gc.ca/en)\
+🦁 My website: [Thaomar](https://thaomar.com/)\
+📝 Blog: [Blogger](https://thaomar.blogspot.com/)
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alumni.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
 - ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15!
-- 💡 Current interest: Detections engineering, applications of big data in cybersecurity
+- 💡 Current interest: Detection engineering, applications of big data in cybersecurity
 - 🧾 Notable certifications: OSCP, OSWE, CARTP, BTL1, AWS SAA
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
