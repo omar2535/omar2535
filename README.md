@@ -2,7 +2,7 @@
 
 🍁 Cybersecurity engineer at the [Government of Canada](https://www.cyber.gc.ca/en)\
 🦁 My website: [Thaomar](https://thaomar.com/)\
-📝 Blog: [Blogger](https://thaomar.blogspot.com/)
+📝 Blog: [Blog](https://thaomar.blogspot.com/)
 
 - 🔭 I’m currently learning more about software & systems!
 - 📫 How to reach me: <a href="mailto:omar2535@alumni.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
