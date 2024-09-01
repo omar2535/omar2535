@@ -6,7 +6,7 @@
 Ⓜ️ Medium: [Medium](https://medium.com/@omar2535)
 
 - 🔭 I’m currently learning more about software & systems!
-- 📫 How to reach me: <a href="mailto:omar2535@alumni.ubc.ca">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
+- 📫 How to reach me: <a href="mailto:omar.tsai@proton.me">Email</a> or [Linkedin](https://www.linkedin.com/in/omar2535/)
 - ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15!
 - 💡 Current interest: Detection engineering, applications of big data in cybersecurity
 - 🧾 Notable certifications: OSCP, OSWE, CARTP, BTL1, AWS SAA
