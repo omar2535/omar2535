@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning more about applications of AI in cybersecurity!
 - ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15!
 - 💡 Current interest: Detection engineering, applications of big data in cybersecurity
-- 🧾 Notable certifications: OSCP, OSWE, CARTP, BTL1, AWS SAA
+- 🧾 Notable certifications: OSCP, OSWE, CARTP, BTL1
 
 [![Omar's tryhackme](https://tryhackme-badges.s3.amazonaws.com/omar2535.png)](https://tryhackme.com/p/omar2535)
 [![Omar's hackthebox](http://www.hackthebox.eu/badge/image/31559)](https://www.hackthebox.com/home/users/profile/31559)
