@@ -2,7 +2,6 @@
 ---
 🍁 Cybersecurity engineer at the [Government of Canada](https://www.canada.ca/en.html)\
 🦁 My website: [Thaomar](https://thaomar.com/)\
-📝 Blog: [Blog](https://thaomar.blogspot.com/)\
 Ⓜ️ Medium: [Medium](https://medium.com/@omar2535)
 
 - 🔭 I’m currently learning more about applications of AI in cybersecurity!
