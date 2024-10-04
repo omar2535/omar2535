@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
-🍁 Cybersecurity engineer at the [Government of Canada](https://www.canada.ca/en.html)\
+🍁 Cybersecurity engineer\
 🦁 My website: [Thaomar](https://thaomar.com/)\
 Ⓜ️ Medium: [Medium](https://medium.com/@omar2535)
 
