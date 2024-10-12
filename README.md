@@ -15,4 +15,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar2535)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
-
