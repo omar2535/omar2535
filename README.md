@@ -5,9 +5,9 @@
 Ⓜ️ Medium: [Medium](https://medium.com/@omar2535)
 
 - 🔭 I’m currently learning more about applications of AI in cybersecurity!
-- ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15!
+- ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15 (_back in the days of young Google Play_)!
 - 💡 Current interest: Detection engineering, applications of big data in cybersecurity
-- 🔬 Experiences: Background in software development, cloud security, application security
+- 🔬 Experiences: Software development, cloud security, and application security
 - 🧾 Notable certifications: OSCP, OSWE, CARTP, BTL1
 
 [![Omar's tryhackme](https://tryhackme-badges.s3.amazonaws.com/omar2535.png)](https://tryhackme.com/p/omar2535)
