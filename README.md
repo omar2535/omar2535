@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
 🍁 Cybersecurity engineer\
-🦁 My website: [Thaomar](https://thaomar.com/)\
-Ⓜ️ Medium: [Medium](https://medium.com/@omar2535)
+🦁 My website: [Thaomar](https://thaomar.com/)
 
 - ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15 (_back in the days of young Google Play_)!
 - 🔬 Experiences: Software development, data engineering, cloud/app security
