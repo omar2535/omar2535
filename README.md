@@ -1,14 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Omar!+%F0%9F%91%8B)](https://git.io/typing-svg)
----
-🍁 Cybersecurity engineer\
-🦁 My website: [Thaomar](https://thaomar.com/)
+<h1 align="center"> Hi, I'm Omar! 😃 </h1>
 
-- ⚡ Fun fact: I published my first Android app on the Google Play Store when I was 15 (_back in the days of young Google Play_)!
-- 🔬 Experiences: Software development, data engineering, cloud/app security
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Interested+in+the+world" alt="Typing SVG" /></a>
+</p>
 
-[![Omar's tryhackme](https://tryhackme-badges.s3.amazonaws.com/omar2535.png)](https://tryhackme.com/p/omar2535)
-[![Omar's hackthebox](http://www.hackthebox.eu/badge/image/31559)](https://www.hackthebox.com/home/users/profile/31559)
----
+<h3 align="center">🍁All things cyber</h3>
+<p align="center">Programmer | Artificial Intelligence | Data Engineering | Detections Engineering | Cloud Security | App Security</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar2535)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omar2535&fire=00C2DD&dates=95DD49&sideNums=DD2727)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=omar2535&rank_icon=github" alt="GitHub Stats" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omar2535&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&hide_current_streak=true" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://tryhackme-badges.s3.amazonaws.com/omar2535.png" alt="GitHub Stats" style="height: 50px;" /></a>
+  <a href="https://www.hackthebox.com/home/users/profile/31559"><img src="http://www.hackthebox.eu/badge/image/31559" alt="GitHub Streak" style="height: 50px;" /></a>
+</p>
