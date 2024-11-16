@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">🍁All things cyber</h3>
-<p align="center">Programmer | Artificial Intelligence | Data Engineering | Detections Engineering | Cloud Security | App Security</p>
+<p align="center">Programmer | Data Science | Data Engineering | Detections Engineering | Cloud Security | App Security</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=omar2535&rank_icon=github" alt="GitHub Stats" /></a>
