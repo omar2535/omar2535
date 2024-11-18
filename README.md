@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Interested+in+the+world" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">🍁All things cyber</h3>
+<h3 align="center">🍁</h3>
 <p align="center">Programmer | Data Science | Data Engineering | Detections Engineering | Cloud Security | App Security</p>
 
 <p align="center">
