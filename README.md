@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Omar! 😃 </h1>
+<h1 align="center"> Hi, I'm Omar! 👋 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Interested+in+the+world" alt="Typing SVG" /></a>
